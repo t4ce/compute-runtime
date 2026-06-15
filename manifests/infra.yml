@@ -1,9 +1,0 @@
-components:
-  infra:
-    branch: master
-    dest_dir: infra
-    fetch_tags: true
-    revision: v8216
-    type: git
-converter: M-3107
-version: '1'

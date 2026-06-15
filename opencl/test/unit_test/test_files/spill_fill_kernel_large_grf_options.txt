@@ -1,8 +1,0 @@
-/*
- * Copyright (C) 2025 Intel Corporation
- *
- * SPDX-License-Identifier: MIT
- *
- */
-
--ze-exp-register-file-size 256

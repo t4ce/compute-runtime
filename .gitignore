@@ -1,9 +1,0 @@
-.claude/
-.vs/*
-.vscode/*
-CMakeSettings.json
-build/*
-build_linux/*
-/debian/
-out/*
-*.orig

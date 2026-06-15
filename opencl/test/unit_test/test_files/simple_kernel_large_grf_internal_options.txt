@@ -1,8 +1,0 @@
-/*
- * Copyright (C) 2025 Intel Corporation
- *
- * SPDX-License-Identifier: MIT
- *
- */
-
--cl-intel-256-GRF-per-thread
